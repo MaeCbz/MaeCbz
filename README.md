@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaeCbz
-- 🌱 I’m currently learning PHP and JS
+- 🌱 I’m currently learning Python and C#.
 
 
 <!---
